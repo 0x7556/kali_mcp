@@ -84,3 +84,7 @@ Kali AI 渗透工具是一个集成的命令行工具，旨在简化渗透测试
 ```
 ![image](https://github.com/0x7556/kali_mcp/blob/main/images/kali_subdomain.png)
 
+### 参考链接
+- [Kali Linux](https://www.kali.org/)
+- [Subfinder](https://github.com/projectdiscovery/subfinder)
+
