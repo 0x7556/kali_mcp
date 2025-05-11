@@ -55,7 +55,7 @@ Kali AI 渗透工具是一个集成的命令行工具，旨在简化渗透测试
 
 用户通过自然语言与AI聊天即可操作Kali进行自动渗透，无需关心背后复杂命令.
 
-### 执行系统命令
+### AI执行系统命令
 
 ```bash
 执行命令 id
@@ -63,21 +63,21 @@ Kali AI 渗透工具是一个集成的命令行工具，旨在简化渗透测试
 本工具禁止执行危险命令，如关机/重启/注销/全盘删除等，防止AI乱执行命令导致数据丢失。
 ![image](https://github.com/0x7556/kali_mcp/blob/main/images/kali_cmd.png)
 
-### SQL注入漏洞检测
+### AI检测SQL注入漏洞
 
 ```bash
 使用sqlmap检测  http://192.168.198.18/bbs/news.php?id=8
 ```
 ![image](https://github.com/0x7556/kali_mcp/blob/main/images/kali_sqlmap.png)
 
-### 扫描开放端口
+### AI扫描开放端口
 
 ```bash
 扫描 192.168.198.18 开放端口
 ```
 ![image](https://github.com/0x7556/kali_mcp/blob/main/images/kali_nmap.png)
 
-### 获取子域名
+### AI获取子域名
 
 ```bash
 获取 18k.icu 子域名
