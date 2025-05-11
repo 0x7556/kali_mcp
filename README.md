@@ -77,3 +77,10 @@ Kali AI 渗透工具是一个集成的命令行工具，旨在简化渗透测试
 ```
 ![image](https://github.com/0x7556/kali_mcp/blob/main/images/kali_nmap.png)
 
+### 获取子域名
+
+```bash
+获取 18k.icu 子域名
+```
+![image](https://github.com/0x7556/kali_mcp/blob/main/images/kali_subdomain.png)
+
