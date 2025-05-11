@@ -6,7 +6,7 @@ Kali Linux 是一个基于 Debian 的 Linux 发行版，专为渗透测试和安
 
 ## 工具概述
 
-AI Pentest MCP 工具是一个集成的命令行工具，旨在简化渗透测试过程。用户可以通过 AI 调用命令，执行各种安全测试。
+Kali AI 渗透工具是一个集成的命令行工具，旨在简化渗透测试过程。用户可以通过 AI 调用命令，执行各种安全测试。
 
 ## 功能
 
@@ -15,12 +15,14 @@ AI Pentest MCP 工具是一个集成的命令行工具，旨在简化渗透测�
 
 ## 使用方法
 
+用户可以通过与AI聊天使用Kali进行自动渗透，无需关心背后复杂命令.
+
 ### 执行系统命令
 
-用户可以通过以下方式执行系统命令：
-
-1. 启动工具。
-2. 输入命令，AI 将自动处理并执行。
+SQL注入漏洞检测
+```bash
+使用sqlmap检测  http://192.168.198.18/bbs/news.php?id=8
+```
 
 ![Kali Linux AI Pentest MCP Tools](https://github.com/0x7556/kali_mcp/blob/main/kali_cmd.png)
 
