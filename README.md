@@ -12,16 +12,23 @@ Kali AI 渗透工具是一个集成的命令行工具，旨在简化渗透测试
 
 - **执行系统命令**：用户可以通过自然语言调用 AI 执行任意 Kali 系统命令。
 - **SQL 注入检测**：集成了 sqlmap 等工具，方便用户检测 SQL 注入漏洞。
-
+- **端口扫描**：集成了 Nmap 工具，用户可以快速扫描目标主机的开放端口
+- 
 ## 使用方法
 
 用户可以通过与AI聊天使用Kali进行自动渗透，无需关心背后复杂命令.
 
-### 执行系统命令
+### SQL注入漏洞检测
 
-SQL注入漏洞检测
 ```bash
 使用sqlmap检测  http://192.168.198.18/bbs/news.php?id=8
 ```
 ![image](https://github.com/0x7556/kali_mcp/blob/main/images/kali_sqlmap.png)
+
+### 扫描开放端口
+
+```bash
+扫描 192.168.198.18 开放端口
+```
+![image](https://github.com/0x7556/kali_mcp/blob/main/images/kali_nmap.png)
 
