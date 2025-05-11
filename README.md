@@ -28,13 +28,22 @@ Kali AI 渗透工具是一个集成的命令行工具，旨在简化渗透测试
 ```bash
 {
   "mcpServers": {
-    "uZwtm496yR4uimzW_7ReU": {
-      "name": "kali MCP",
+    "bbLeglCAPwdyp7a4n0bKh": {
+      "name": "subfinderMCP",
       "type": "stdio",
       "description": "",
       "isActive": true,
       "timeout": "240",
-      "command": "/home/kali/Desktop/mcp/kaliMCP",
+      "command": "/home/kali/Desktop/kali_mcp/SubdomainMCP",
+      "args": []
+    },
+    "uZwtm496yR4uimzW_7ReU": {
+      "name": "kali mcp",
+      "type": "stdio",
+      "description": "",
+      "isActive": true,
+      "timeout": "240",
+      "command": "/home/kali/Desktop/kali_mcp/kali_mcp_mcp",
       "args": []
     }
   }
