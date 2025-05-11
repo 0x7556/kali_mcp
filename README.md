@@ -23,5 +23,5 @@ SQL注入漏洞检测
 ```bash
 使用sqlmap检测  http://192.168.198.18/bbs/news.php?id=8
 ```
-![Kali Linux AI Pentest MCP Tools](https://github.com/0x7556/kali_mcp/blob/main/kali_cmd.png)
+![image](https://github.com/0x7556/kali_mcp/blob/main/images/kali_sqlmap.png)
 
