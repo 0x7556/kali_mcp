@@ -1,4 +1,4 @@
-# Kali Linux AI Pentest MCP Tools
+# Kali AI Pentest MCP Tools
 
 ## 工具概述
 
