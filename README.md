@@ -85,7 +85,7 @@ Kali MCP是一个AI渗透工具，旨在简化渗透测试过程。用户可以�
 ![image](https://github.com/0x7556/kali_mcp/blob/main/images/kali_subdomain.png)
 
 ### 参考链接
-跨平台平台MCP服务器 支持Winodws\Linux\MacOS操作系统
+跨平台MCP服务器 支持Winodws\Linux\MacOS操作系统
 - [PentestMCP](https://github.com/0x7556/PentestMCP)
 - [Kali MCP](https://github.com/0x7556/kali_mcp)
 
