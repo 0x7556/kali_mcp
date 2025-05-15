@@ -50,6 +50,7 @@ Kali MCP是一个AI渗透工具，旨在简化渗透测试过程。用户可以�
   }
 }
 ```
+![image](https://github.com/0x7556/kali_mcp/blob/main/images/cherry.png)
 
 ## 使用方法
 
