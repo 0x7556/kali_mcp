@@ -85,6 +85,16 @@ Kali MCP是一个AI渗透工具，旨在简化渗透测试过程。用户可以�
 ```
 ![image](https://github.com/0x7556/kali_mcp/blob/main/images/kali_subdomain.png)
 
+### 说人话 AI自动编写端口扫描器
+
+```bash
+使用python编写一个端口扫描程序 
+并测试直到成功为止 测试IP如下
+
+python portscan.py 192.168.50.111 80,443,135,445
+
+```
+
 ### 参考链接
 跨平台MCP服务器 支持Winodws\Linux\MacOS操作系统
 - [PentestMCP](https://github.com/0x7556/PentestMCP)
