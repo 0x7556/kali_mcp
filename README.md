@@ -95,6 +95,15 @@ python portscan.py 192.168.50.111 80,443,135,445
 
 ```
 
+# Video 视频演示
+
+## AI自动渗透 5分钟GetShell
+Video: https://github.com/0x7556/kali_mcp/blob/main/video/AI自动渗透5分钟GetShell.mov
+
+## AI自动编程 端口扫描器
+Video: https://github.com/0x7556/kali_mcp/blob/main/video/AI自动编写python端口扫描器.mov
+
+
 ### 参考链接
 跨平台MCP服务器 支持Winodws\Linux\MacOS操作系统
 - [PentestMCP](https://github.com/0x7556/PentestMCP)
