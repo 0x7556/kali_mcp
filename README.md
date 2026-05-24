@@ -105,7 +105,7 @@ Video: https://github.com/0x7556/kali_mcp/blob/main/video/AI自动编写python�
 
 
 ### 参考链接
-跨平台MCP服务器 支持Winodws\Linux\MacOS操作系统
+跨平台MCP服务器 支持Kali\Ubuntu\Winodws\Linux\MacOS操作系统
 - [PentestMCP](https://github.com/0x7556/PentestMCP)
 - [Kali MCP](https://github.com/0x7556/kali_mcp)
 
