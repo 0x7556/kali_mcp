@@ -109,3 +109,4 @@ Video: https://github.com/0x7556/kali_mcp/blob/main/video/AI自动编写python�
 - [PentestMCP](https://github.com/0x7556/PentestMCP)
 - [Kali MCP](https://github.com/0x7556/kali_mcp)
 
+![img](https://github.com/0x7556/wolfshell/blob/main/join.jpeg)
