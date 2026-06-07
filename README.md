@@ -104,6 +104,11 @@ Video: https://github.com/0x7556/kali_mcp/blob/main/video/AI自动渗透5分钟G
 Video: https://github.com/0x7556/kali_mcp/blob/main/video/AI自动编写python端口扫描器.mov
 
 
+## 免责声明
+
+- 使用本工具，请遵循相关法律法规，确保在授权的环境中进行测试和使用。
+- 本工具仅供教育和研究目的，任何滥用行为将由用户自行承担后果。
+  
 ### 参考链接
 跨平台MCP服务器 支持Kali\Ubuntu\Winodws\Linux\MacOS操作系统
 - [PentestMCP](https://github.com/0x7556/PentestMCP)
